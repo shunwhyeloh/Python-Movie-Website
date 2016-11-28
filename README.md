@@ -16,9 +16,3 @@ Run app.py
 ```bash
 python app.py
 ```
-
-## Demo
-
-Web application demo
-
-![Screenshot for demo]("images/moviedemo.jpg" "Demo")
