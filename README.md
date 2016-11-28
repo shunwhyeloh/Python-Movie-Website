@@ -9,7 +9,7 @@ It takes input from the user - the number of movies to show on the web page (max
 
 Take a clone of this repository and go to the cloned directory
 ```bash
-git clone https://github.com/sahildua2305/movie-trailer-website.git && cd movie-trailer-website
+git clone https://github.com/shunwhyeloh/Python-Movie-Website.git
 ```
 
 Run app.py
@@ -19,10 +19,6 @@ python app.py
 
 ## Demo
 
-Running the app from command line
-
-![Screenshot for Command line](/screenshots/command-line.png?raw=true "Command line")
-
 Web application demo
 
-![Screenshot for demo](/screenshots/demo.png?raw=true "Demo")
+![Screenshot for demo](Screen Shot 2016-11-29 at 1.09.43 am.png "Demo")
