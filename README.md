@@ -21,4 +21,4 @@ python app.py
 
 Web application demo
 
-![Screenshot for demo](Screen Shot 2016-11-29 at 1.09.43 am.png "Demo")
+![Screenshot for demo]("images/moviedemo.jpg" "Demo")
